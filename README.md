@@ -1,6 +1,6 @@
 # kmeans-ishihara-segmentation
 
-## 🧠 How It Works
+## How It Works
 
 This project implements the **K-Means clustering algorithm from scratch** and applies it to segment **Ishihara color blindness test images** to reveal the hidden numbers.
 
