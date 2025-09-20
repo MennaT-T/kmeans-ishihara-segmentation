@@ -16,7 +16,7 @@ This project implements the **K-Means clustering algorithm from scratch** and ap
 
 ---
 
-## 🖼️ Example Results
+## Example Results
 
 Each image below shows the **original Ishihara test plate on the left**, and the **segmented number extracted using K-Means on the right**:
 
